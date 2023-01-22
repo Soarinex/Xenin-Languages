@@ -85,9 +85,9 @@
                 "shipments": "SHIPMENTS",
                 "ammo": "AMMO",
                 "vehicles": "VEHICLES",
-                "food": "FOOD"
-                "upgrades": "UPGRADES"
-                "tokens": "TOKENS"
+                "food": "FOOD",
+                "upgrades": "UPGRADES",
+                "tokens": "TOKENS",
                 "boosts": "BOOSTS"
             },
             "top": {
