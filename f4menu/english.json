@@ -90,7 +90,10 @@
                 "shipments": "SHIPMENTS",
                 "ammo": "AMMO",
                 "vehicles": "VEHICLES",
-                "food": "FOOD"
+                "food": "FOOD",
+                "upgrades": "UPGRADES",
+                "tokens": "TOKENS",
+                "boosts": "BOOSTS"
             },
             "food": {
                 "categoryName": "Food"
